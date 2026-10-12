@@ -1,2 +1,8 @@
-# FinSight-Financial-Sentiment-Analyzer
-An AI-powered financial sentiment analyzer that evaluates financial news and text to identify market sentiment, helping users interpret financial information through NLP and sentiment analysis.
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
